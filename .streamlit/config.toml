@@ -1,0 +1,12 @@
+# 라이트/다크 테마를 각각 정의해 사용자 시스템 설정을 따르게 한다
+[theme.light]
+primaryColor = "#4F6BED"
+baseRadius = "0.75rem"
+
+[theme.dark]
+primaryColor = "#7C93FF"
+baseRadius = "0.75rem"
+
+[client]
+# 배포 버튼 등 개발용 메뉴를 숨긴다
+toolbarMode = "minimal"
